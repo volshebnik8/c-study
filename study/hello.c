@@ -2,6 +2,7 @@
 
 int main() {
 	printf("Hello Vova!\n");
+	printf("Goodbye Vova!\n");
 
 	for (int i = 1; i <= 10; i++) {
 		printf("%d\n", i);
